@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wedlock-dev-181729-authRole",
+      "UnauthRoleArn": "arn:aws:iam::282026778429:role/amplify-wedlock-dev-181729-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::282026778429:role/amplify-wedlock-dev-181729-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wedlock-dev-181729-deployment",
+      "UnauthRoleName": "amplify-wedlock-dev-181729-unauthRole",
+      "StackName": "amplify-wedlock-dev-181729",
+      "StackId": "arn:aws:cloudformation:us-east-1:282026778429:stack/amplify-wedlock-dev-181729/ce9be1e0-8be8-11ee-829a-12c933336c4f",
+      "AmplifyAppId": "dz192zmragacb"
+    }
+  }
+}
