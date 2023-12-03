@@ -10,6 +10,14 @@
       "StackName": "amplify-wedlock-dev-181729",
       "StackId": "arn:aws:cloudformation:us-east-1:282026778429:stack/amplify-wedlock-dev-181729/ce9be1e0-8be8-11ee-829a-12c933336c4f",
       "AmplifyAppId": "dz192zmragacb"
+    },
+    "categories": {
+      "auth": {
+        "wedlockb9c51367": {}
+      },
+      "api": {
+        "wedlock": {}
+      }
     }
   }
 }
